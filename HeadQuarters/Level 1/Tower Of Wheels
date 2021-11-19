@@ -1,0 +1,10 @@
+To do this one open up Inspect Element then go to the Console Tab
+and input the folowing lines of code one at a time
+move("left","right")
+move("left","mid")
+move("right","mid")
+move("left","right")
+move("mid","left")
+move("mid","right")
+move("left","right")
+that should give you the flag
