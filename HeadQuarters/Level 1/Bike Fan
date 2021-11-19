@@ -1,0 +1,5 @@
+to do this one open up Inspect Element or Ctrl + Shft + I and on the Elements tab, look on the top left and you should see a screen with a mouse on it.
+click on it and click on the image that isnt working "Canyon Ultimate CF SLX" 
+The file should read "/assets/challenge/W0009/assets/images/challenge-cyclelove-bike-5.9cfe1438."
+Change it to "/assets/challenge/W0009/assets/images/challenge-cyclelove-bike-5.9cfe1438.jpg"
+and that should give you the flag
