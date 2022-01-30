@@ -1,3 +1,10 @@
 Go To Inspect Element
  
-Click On This Button
+Click On The Button That Looks Like A Square Being Clicked On By A Mouse
+Click On The Corrupted Image (Astute Skylite Pilarga SR saddle)
+You Should See An Element Called
+"<img src="/assets/challenge/W0020/assets/images/challenge-acbblog-saddle-2.0d962147.gif" alt="Pro Falcon saddle" class="image">"
+Change The "/assets/challenge/W0020/assets/images/challenge-acbblog-saddle-2.0d962147.gif"
+To "/assets/challenge/W0020/assets/images/challenge-acbblog-saddle-2.0d962147.jpg"
+The Image Isnt in A Gif Format Thats Why Doesnt Work
+The Image Should Pop up With The Flag
