@@ -1,0 +1,9 @@
+Open up the page source or source code
+scroll down til lyou find something that says 
+// Set username & password login details here here
+var username = "aksel";
+var df43fbiX = "t1mberl4nd";
+var i43yh98y = "-el33t";
+var password = df43fbiX + i43yh98y;
+The username is "aksel"
+and the password is the two varibles put togther.
