@@ -1,0 +1,3 @@
+this is a linux terminal so first you input "ls" 
+you will find the file "passcrack"
+input "./passcrack" and it will run the file and the flag will be outputed
